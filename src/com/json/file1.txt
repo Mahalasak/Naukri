@@ -1,0 +1,5 @@
+var jsonobject={
+	"name": "Mahalasa",
+	"age": "22",
+	"place": "Mysore"
+}

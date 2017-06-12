@@ -1,0 +1,32 @@
+{
+"Students": [{
+  "Name": "www.javainterviewpoint.com",
+    "Age": 23,
+    "Countries": [
+        "India",
+        "England",
+        "Australia"
+    ]
+    
+},
+{
+	"Name": "www.javainterviewpoint.com",
+	"Age": 26,
+    "Countries": [
+        "Japan",
+        "America",
+        "California"
+    ]
+    
+},
+{
+	"Name": "www.javainterviewpoint.com",
+	"Age": 36,
+    "Countries": [
+        "Maryland",
+        "Manila",
+        "Turkey"
+    ]
+    
+}]
+}
